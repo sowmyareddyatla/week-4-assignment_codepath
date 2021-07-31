@@ -43,5 +43,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/tech_fellow_training/QvVmf7mj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/sowmyareddyatla/week-4-assignment_codepath/blob/main/Twitter%20Part%202%20Images/Ios%20Twitter%20part%202.gif'/>
 
